@@ -6,4 +6,5 @@ document.querySelector('.submit').onclick = function() {
     } else {
     alert("Submitted succesfully");
     }
+    
 };
